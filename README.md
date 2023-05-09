@@ -1,5 +1,3 @@
-
-<p align="left"> 
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkan0141&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mkan0141" />
-</p>
+¥
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkan0141&theme=nord_bright)
+![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkan0141&theme=nord_bright) ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkan0141&theme=nord_bright)
